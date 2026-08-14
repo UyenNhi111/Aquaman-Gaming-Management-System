@@ -13,7 +13,7 @@ namespace QuanlydichvutiemnetAquamanGaming
 {
     public partial class QL_DangKyTaiKhoan : Form
     {
-        private string connectionString = @"Data Source=LAPTOP-FFG392QU;Initial Catalog=QLDVTN;Integrated Security=True";
+        private string connectionString="Server=YOUR_SERVER;Database=AquamanGaming;Trusted_Connection=True;"
 
         private decimal oldSoDu = 0;
 
