@@ -13,7 +13,7 @@ namespace QuanlydichvutiemnetAquamanGaming
 {
     public partial class QL_DichVuAnUong : Form
     {
-        string connectionString = @"Data Source=LAPTOP-FFG392QU;Initial Catalog=QLDVTN;Integrated Security=True";
+        string connectionString="Server=YOUR_SERVER;Database=AquamanGaming;Trusted_Connection=True;"
         DataTable dtDichVu;
 
         public QL_DichVuAnUong()
