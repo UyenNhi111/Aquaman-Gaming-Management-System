@@ -1,4 +1,4 @@
-.# Aquaman Gaming – Internet Café Service Management System
+# Aquaman Gaming – Internet Café Service Management System
 
 **An end-to-end case study: from business needs to a working software product.**
 
