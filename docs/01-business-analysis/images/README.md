@@ -127,6 +127,13 @@ The TO-BE process eliminates manual time logging and paper-based billing — ses
 
 ---
 
+## 8. Outcomes
+Delivered a complete Business Requirements Document (BRD) covering project scope, stakeholders, functional/non-functional requirements, constraints, and assumptions
+Defined 4 core business rules (e.g. session pricing, VIP discount, auto-cutoff on zero balance) that were carried forward and directly enforced at the database level in 04-database-engineering (triggers, stored procedures)
+Modeled all 4 core business processes end-to-end with BPMN and DFD — registration, session & billing, food/beverage service, and technical support
+Built a full Requirements Traceability Matrix linking every requirement to the design artifact that implements it, so nothing defined in this phase was lost by the time the system reached implementation
+Findings from this phase set the scope for 02-system-analysis: every use case and data entity in that phase traces back to a requirement defined here
+
 ## What this phase demonstrates
 
 Stakeholder management, requirements elicitation (interviews, user stories), business
